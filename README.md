@@ -1,32 +1,32 @@
 # 🎥 Meyara AI Studio | Portfolio
 ### Advanced AI Solutions & Digital Human Synthesis
 
-Welcome to my professional showcase. I specialize in leveraging cutting-edge Generative AI to create high-impact visual content, digital personas, and luxury product visualizations.
+Welcome to my professional showcase. I specialize in leveraging cutting-edge Generative AI to create high-impact visual content and luxury visualizations.
 
 ---
 
-## 🚀 Featured Expertise
+## 💎 Featured Projects & Visual Arts
 
-### 👤 Digital Human Synthesis & AI Animation
-Creating hyper-realistic, non-existent digital characters for storytelling and brand ambassadorship.
-* **Tools:** Stable Diffusion, Wav2Lip, SadTalker, Gen-2.
-* **Key Achievement:** Developed consistent AI characters with natural movements and expressions.
+### 💍 Luxury Jewelry Visualization
+High-fidelity AI rendering for high-end brands, focusing on realistic textures and cinematic lighting.
+* **Watch Project:** ![Jewelry](Luxury_highend_jewelry_pre...)
+* **Cinematic Gold:** ![Cinematic Jewelry](Luxury_cinematic_jewelry_c...)
 
-### 💎 Luxury Product Visualization (Jewelry)
-High-fidelity AI rendering for high-end brands, focusing on realistic textures like gold, silver, and gemstones.
-
-### 🏢 Corporate & Real Estate AI Content
-Professional AI-driven video production for real estate and corporate presentations, as showcased in my Oman-based projects.
+### 🎬 Ultra-Realistic Cinematic Content
+Pushing the boundaries of AI-driven video and imagery for corporate and creative storytelling.
+* **Cinematic Showcase:** ![Ultrarealistic](Ultrarealistic_cinematic_cor...)
+* **High-End Asset:** ![HighEnd](A_highend_cinematic_2026...)
 
 ---
 
-## 🛠 Tech Stack
-* **Generative AI:** Midjourney, DALL-E 3, Stable Diffusion (Automatic1111/ComfyUI).
-* **Video AI:** Runway Gen-2, Pika Labs, HeyGen.
-* **Development:** Python, PyTorch, Overleaf (LaTeX).
+## 🛠 Project Assets
+The following high-quality assets have been developed using advanced AI workflows:
+* **Visual Identity 1:** ![Asset 1](1767550385174.jpg)
+* **Visual Identity 2:** ![Asset 2](1767552411199.jpg)
+* **Visual Identity 3:** ![Asset 3](1767802276086.jpg)
 
 ---
 
 ## 📬 Contact for Collaboration
 * **Location:** Muscat, Oman / Remote
-* **LinkedIn:** [Your Profile Link Here]
+* **Profile:** AI Specialist & Generative Art Expert
